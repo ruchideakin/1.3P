@@ -2,7 +2,7 @@
   <div class="container">
     <div id="name-container">
       <img id="avatar" src="./../assets/logos/icons8-female-48.png" alt="avatar" />
-      <h1>Ruchika Bhimani</h1>
+      <h1>Ruchi Bhimani</h1>
     </div>
     <div class="title-desc-container">
       <a id="github" href="https://github.com/ruchideakin" target="_blank" rel="noopener noreferrer"
@@ -16,7 +16,7 @@
     <div class="article">
       <h2>WHO AM I</h2>
       <p>
-        I'm <i>Ruchika Bhimani</i>. Open and friendly person who approaches addressing normal requirements and overcoming unique problems with composure and objectivity. Employee with a strong drive to take on new tasks. Strong work ethic, flexibility, and outstanding social skills. 
+        I'm <i>Ruchi Bhimani</i>. Open and friendly person who approaches addressing normal requirements and overcoming unique problems with composure and objectivity. Employee with a strong drive to take on new tasks. Strong work ethic, flexibility, and outstanding social skills. 
       </p>
 
       <h2>Academics</h2>
