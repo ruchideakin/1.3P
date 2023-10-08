@@ -12,7 +12,7 @@
           Built with ♥
         </p>
         <p>
-          Designed and coded from scratch by Ruchika. 
+          Designed and coded from scratch by Ruchi. 
         </p>
       </div>
     </div>
